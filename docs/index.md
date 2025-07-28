@@ -8,7 +8,7 @@
 
 Saya seorang pelajar yang antusias di bidang **Teknik Komputer & Jaringan**, dan ini adalah tempat saya mendokumentasikan berbagai **project, eksperimen, dan solusi nyata** yang pernah saya buat.
 
-[About Me](about-me.md){ .md-button .md-button--primary }
+[About Me](about-me/aboutme.md){ .md-button .md-button--primary }
 
 > “Document what you build — because real engineers don’t just configure, they also document.”
 
