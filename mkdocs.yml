@@ -1,0 +1,37 @@
+site_name: Website Projects Lucky
+repo_url: https://github.com/LukizCookiez/Website-Projects
+site_url: https://lukizcookiez.github.io/Website-Projects/
+
+theme:
+  name: material
+  logo: img/favicon/project-management.png
+  favicon: img/favicon/project-management.png
+  features:
+    - content.code.copy
+    - toc.integrate
+    - navigation.tabs
+    - navigation.prune
+    - navigation.tabs.sticky
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+    - content.code.annotation
+  palette:
+    - scheme: purple
+      toggle:
+        icon: material/brightness-7
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+
+markdown_extensions:
+  - attr_list
+  - tables
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/yanglucky_aja/
+    - icon: fontawesome/brands/github
+      link: https://github.com/LukizCookiezz/Lucky-MkDocss
