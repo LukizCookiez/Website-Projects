@@ -18,6 +18,6 @@ Saya seorang pelajar yang antusias di bidang **Teknik Komputer & Jaringan**, dan
 
 | Method        | Description                         |
 |---------------|-------------------------------------|
-| [DHCP Project](dhcp-project.md){ .md-button .md-button--primary } | Click here my content |
-| [SSH](SSH/Project-SSH.md){ .md-button .md-button--primary } | Click for my content |
+| [DHCP Project](dhcp-project/dhcp.md){ .md-button .md-button--primary } | Click here my content |
+| [SSH](ssh-project/ssh.md){ .md-button .md-button--primary } | Click for my content |
 | [other](projects.md){ .md-button .md-button--primary } | Click for other projects |
