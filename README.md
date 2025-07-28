@@ -12,7 +12,7 @@ Di dalam website ini, saya mendokumentasikan berbagai proyek praktikum dan ekspe
 
 Tujuan dari dokumentasi ini adalah untuk membagikan proses belajar saya dan sekaligus menjadi referensi praktis bagi siapa saja yang tertarik dengan dunia jaringan dan server.
 
-📁 Semua konten dapat diakses melalui tampilan website yang dibangun menggunakan **MkDocs** dan dapat dikunjungi di [GitHub Pages saya](https://lukizcookiez.github.io/Website-Projects/). 
+📁 Semua konten dapat diakses melalui tampilan website yang dibangun menggunakan **MkDocs** dan dapat dikunjungi di [Website saya](https://lukizcookiez.github.io/Website-Projects/). 
 Dan ini sudah bisa dibuka dengan semua platform dari laptop maupun HP
 
 Terima kasih sudah mampir!
