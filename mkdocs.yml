@@ -1,0 +1,72 @@
+# Konfigurasi Website Lucky's Digital Lab
+site_name: "Lucky's Digital Lab"
+site_url: https://lukizcookiez.github.io/Website-Projects/
+site_author: Muhamad Lucky Nurdiansyah
+repo_url: https://github.com/LukizCookiez/Website-Projects
+
+# Konfigurasi Tema Material for MkDocs
+theme:
+  name: material
+  logo: img/favicon/project-management.png
+  favicon: img/favicon/project-management.png
+  
+  # Fitur-fitur tema
+  features:
+    - content.code.copy
+    - toc.integrate
+    - navigation.tabs
+    - navigation.prune
+    - navigation.tabs.sticky
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+    - content.code.annotation
+  
+  # Palet warna dengan toggle dark/light mode
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Ekstensi Markdown yang digunakan
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Struktur Navigasi Website
+nav:
+  - Homepage: index.md
+  - Projects: projects.md
+  - Dhcp project: dhcp-project/dhcp.md
+  - Pnetlab project: pnetlab-project/pnetlab.md
+  - Ssh project: ssh-project/ssh.md
+  - Wordpress project: wordpress-project/wordpress.md
+
+# Social Links di Footer
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/yanglucky_aja/
+    - icon: fontawesome/brands/github
+      link: https://github.com/LukizCookiez/Website-Projects
