@@ -58,9 +58,9 @@ markdown_extensions:
 nav:
   - Homepage: index.md
   - Projects: projects.md
-  - Dhcp project: dhcp-project/dhcp.md
-  - Pnetlab project: pnetlab-project/pnetlab.md
-  - Ssh project: ssh-project/ssh.md
+  - DHCP project: dhcp-project/dhcp.md
+  - PNETLAB project: pnetlab-project/pnetlab.md
+  - SSH project: ssh-project/ssh.md
   - Wordpress project: wordpress-project/wordpress.md
 
 # Social Links di Footer

@@ -1,4 +1,4 @@
-# Cara membuat Debian Server (DHCP Server)
+# Cara membuat DHCP Server (Debian Server)
 
 ## 1. Setting DHCP Server 
 - pertama-tama, download debian 7 di VmWare sebagai `server`  

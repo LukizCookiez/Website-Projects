@@ -3,7 +3,7 @@
 <!-- Mulai Bagian Profile Header - Disesuaikan agar tidak menimpa navbar -->
 <div style="position: relative; text-align: center; background-color: var(--md-default-bg-color); margin-bottom: 0; padding-bottom: 0; padding-top: 1rem;">
   <!-- Banner berwarna di belakang foto (z-index dihapus agar tidak konflik) -->
-  <div style="background-color: var(--md-primary-fg-color); height: 80px; width: 100%; position: absolute; top: 1rem; left: 0;"></div>
+  <div style="background-color: var(--md-primary-fg-color); height: 80px; width: 100%; position: absolute; top: 1rem; left: 0;"></div> 
   
   <!-- Foto profil - z-index dihapus, margin-top ditambah untuk jarak dari navbar -->
   <img src="img/Profile Picture .jpg" alt="Lucky's Profile Picture"
@@ -23,7 +23,7 @@
 Selamat datang di Digital Lab saya, tempat di mana ide-ide Teknik Komputer & Jaringan bertransformasi menjadi solusi nyata dan dokumentasi mendalam.
 </p>
 
-Sebagai seorang pelajar yang **antusias dan problem-solver** di bidang **Teknik Komputer & Jaringan (TKJ)**, saya mendedikasikan diri untuk menjelajahi, bereksperimen, dan menerapkan teknologi jaringan terkini. Di sini, Anda akan menemukan portofolio dari berbagai **proyek inovatif**, **studi kasus rinci**, dan **artikel teknis** yang saya dokumentasikan dengan tujuan untuk berbagi pengetahuan dan menginspirasi.
+Hai, saya Muhamad Lucky Nurdiansyah sebagai seorang pelajar yang **antusias dan problem-solver** di bidang **Teknik Komputer & Jaringan (TKJ)**, saya mendedikasikan diri untuk menjelajahi, bereksperimen, dan menerapkan teknologi jaringan terkini. Di sini, Anda akan menemukan portofolio dari berbagai **proyek inovatif**, **studi kasus rinci**, dan **artikel teknis** yang saya dokumentasikan dengan tujuan untuk berbagi pengetahuan dan menginspirasi.
 
 <!-- Tombol Call to Action yang jelas menggunakan kelas built-in Material for MkDocs -->
 <a href="projects/" class="md-button md-button--primary">✨ Jelajahi Proyek Saya</a>
