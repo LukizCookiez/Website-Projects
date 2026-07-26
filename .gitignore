@@ -1,0 +1,19 @@
+# Ignore MkDocs build output
+/site/
+
+# Python / Virtual Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
